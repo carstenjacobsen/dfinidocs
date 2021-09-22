@@ -5,4 +5,4 @@
 <!-- Copy-paste in your Readme.md file -->
 
 
-[![](https://github.com/carstenjacobsen/dfinidocs/graphs/contributors)](https://github.com/remarkablemark/html-react-parser/graphs/contributors)
+![](https://github.com/carstenjacobsen/dfinidocs/graphs/contributors)(https://github.com/remarkablemark/html-react-parser/graphs/contributors)
