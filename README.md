@@ -8,4 +8,3 @@
   <img src="https://contrib.rocks/image?repo=carstenjacobsen/dfinidocs" />
 </a>
 
-Made with [contributors-img](https://contrib.rocks).
