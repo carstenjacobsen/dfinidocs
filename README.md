@@ -8,3 +8,4 @@
   <img src="https://contrib.rocks/image?repo=carstenjacobsen/dfinidocs" />
 </a>
 
+[![](https://opencollective.com/carstenjacobsen/dfinidoc/contributors.svg?width=890&button=false)](https://github.com/remarkablemark/html-react-parser/graphs/contributors)
