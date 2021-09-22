@@ -4,5 +4,6 @@
 
 <!-- Copy-paste in your Readme.md file -->
 
-
-![](https://github.com/carstenjacobsen/dfinidocs/graphs/contributors)(https://github.com/remarkablemark/html-react-parser/graphs/contributors)
+<a href="https://github.com/carstenjacobsen/dfinidocs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=carstenjacobsen/dfinidocs" />
+</a>
